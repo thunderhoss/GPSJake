@@ -1,0 +1,10 @@
+GPSjake is a J2ME application developed mainly with the Nokia N8 in mind.
+It allows the user to spatially register a UK Ordnance Survey map image (user must have rights to image and follow copyright requirements), show their position on the map using GPS and provides various navigation functionality including the definition of prompts played at way points and a trip computer.
+
+I have posted it here, under terms of GNU GPL v3, for prosperity - it is no longer maintained.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see ​​​http://www.gnu.org/licenses/. 
